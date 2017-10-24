@@ -1,0 +1,6 @@
+This is an example of code to review 
+this line has the password ID and user name
+an example of the password will be hell0123$etxt
+An example of the user ID is joweds
+an exampple of a hostname is , s1.targer.net, s1.kpmg.com, s1.cnn.com
+
