@@ -1,0 +1,6 @@
+Credit Card information (dummy data)
+List of users 
+Name		           Credit Card #	
+Robert Aragon	489	4929-3813-3266-4295	 - CVV 823
+Ashley Borden	5370-4638-8881-3020   - CCV 433   - good thru 9/12
+Thomas Conley	4916-4811-5814-8111 - CCN  443  Valid thru 8/4
